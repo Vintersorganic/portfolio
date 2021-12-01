@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Vintersorganic/portfolio/static/css/main.8cc57f06.chunk.css",
+    "main.js": "/Vintersorganic/portfolio/static/js/main.f87396d4.chunk.js",
+    "main.js.map": "/Vintersorganic/portfolio/static/js/main.f87396d4.chunk.js.map",
+    "runtime-main.js": "/Vintersorganic/portfolio/static/js/runtime-main.370a6be8.js",
+    "runtime-main.js.map": "/Vintersorganic/portfolio/static/js/runtime-main.370a6be8.js.map",
+    "static/js/2.20b4947f.chunk.js": "/Vintersorganic/portfolio/static/js/2.20b4947f.chunk.js",
+    "static/js/2.20b4947f.chunk.js.map": "/Vintersorganic/portfolio/static/js/2.20b4947f.chunk.js.map",
+    "index.html": "/Vintersorganic/portfolio/index.html",
+    "static/css/main.8cc57f06.chunk.css.map": "/Vintersorganic/portfolio/static/css/main.8cc57f06.chunk.css.map",
+    "static/js/2.20b4947f.chunk.js.LICENSE.txt": "/Vintersorganic/portfolio/static/js/2.20b4947f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.370a6be8.js",
+    "static/js/2.20b4947f.chunk.js",
+    "static/css/main.8cc57f06.chunk.css",
+    "static/js/main.f87396d4.chunk.js"
+  ]
+}
